@@ -1,0 +1,8 @@
+{
+  "defaultSchema": "ollie_king_pt",
+  "assertionSchema": "dataform_assertions",
+  "warehouse": "bigquery",
+  "defaultDatabase": "spry-bricolage-232915",
+  "defaultLocation": "US"
+}
+    
